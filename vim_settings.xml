@@ -76,10 +76,10 @@
       <file name="$USER_HOME$/Documents/2016-17 School Year/SchedulingSim/Schedulers/SRTN.java" timestamp="1480909285449">
         <mark key="[" line="105" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/AlgorithmsProject1/src/Program1.java" timestamp="1504742619409">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
+      <file name="$USER_HOME$/IdeaProjects 17/AlgorithmsProject1/src/Program1.java" timestamp="1504832193462">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="21" />
+        <mark key="." line="49" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/Wumpus2/src/sample/Main.java" timestamp="1489000952399">
         <mark key="[" line="16" column="40" />
@@ -273,7 +273,7 @@
         <text encoding="base64">dAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Collections.reverseOrder(w);</text>
+        <text>String.valueOf(w.get(i).split(&quot;&quot;)</text>
       </register>
       <register name="2" type="4">
         <text>//NOT NEEDED JUST FOR VIEWING PLEASURE
@@ -304,7 +304,7 @@
         <text encoding="base64">IHNlY29uZE1vc3RPY2N1cmVkID0gbGlzdDEuZ2V0KDEpOwogICAgICAgICAgICAgICAgdGhpcmRNb3N0T2NjdXJlZCA9IGxpc3QxLmdldCgyKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>Collections.reverseOrder(w);</text>
+        <text>String.valueOf(w.get(i).split(&quot;&quot;)</text>
       </register>
     </registers>
     <search>
