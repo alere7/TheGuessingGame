@@ -73,8 +73,10 @@
       <file name="$USER_HOME$/IdeaProjects/Transcript/src/Student.java" timestamp="1454464715387">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/ScheduleSim1/src/Sim.java" timestamp="1508111244537">
-        <mark key="[" line="5" column="12" />
+      <file name="$USER_HOME$/IdeaProjects 17/ScheduleSim1/src/Sim.java" timestamp="1508117533893">
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/WumpusModel/WumpusModel/src/Wumpus/WumpusCavern.java" timestamp="1489000814406">
         <mark key="[" line="117" column="56" />
@@ -271,39 +273,39 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJZT1VSIFNQRU5ESU5HIFRPIE1VQ0ggTU9ORVkhISEiKTsKICAgICAgICBlbHNlCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbm9CaW5TdHJpbmcgPSAiVGhpcyBpcyBub3QgYSBiaW5hcnkgbnVtYmVyIjsKLy8KLy8gICAgICAgIGlmIChiaW5hcnlTdHJpbmcuY2hhckF0KGJpbmFyeVN0cmluZy5sZW5ndGgoKSkgPT0gJzEnKSB7Ci8vICAgICAgICAgICAgZGVjTnVtID0gKGludCkgKGRlY051bSArIE1hdGgucG93KDIsIGJpbmFyeVN0cmluZy5sZW5ndGgoKSkpOwovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuIGJpbjJEZWMoKTs=</text>
+        <text encoding="base64">IGlmICh0aWNrcyA+IHF1YW50dW0pIHsKICAgICAgICAgICAgICAgICAgICAvL1RpbWUncyB1cC4gR28gdG8gbmV4dCBwcm9jZXNzLgogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUHJvY2VzcyAiICsgcC5pZCArICIgcHJlZW1wdGVkIik7CiAgICAgICAgICAgICAgICAgICAgdGlja3MgPSAwOwogICAgICAgICAgICAgICAgICAgIFEuYWRkKHApOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbm9CaW5TdHJpbmcgPSAiVGhpcyBpcyBub3QgYSBiaW5hcnkgbnVtYmVyIjsKLy8KLy8gICAgICAgIGlmIChiaW5hcnlTdHJpbmcuY2hhckF0KGJpbmFyeVN0cmluZy5sZW5ndGgoKSkgPT0gJzEnKSB7Ci8vICAgICAgICAgICAgZGVjTnVtID0gKGludCkgKGRlY051bSArIE1hdGgucG93KDIsIGJpbmFyeVN0cmluZy5sZW5ndGgoKSkpOwovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuIGJpbjJEZWMoKTs=</text>
+        <text encoding="base64">IGlmICh0aWNrcyA+IHF1YW50dW0pIHsKICAgICAgICAgICAgICAgICAgICAvL1RpbWUncyB1cC4gR28gdG8gbmV4dCBwcm9jZXNzLgogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUHJvY2VzcyAiICsgcC5pZCArICIgcHJlZW1wdGVkIik7CiAgICAgICAgICAgICAgICAgICAgdGlja3MgPSAwOwogICAgICAgICAgICAgICAgICAgIFEuYWRkKHApOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOw==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYmluYXJ5U3RyaW5nLmxlbmd0aCgpOyBpKyspIHsKLy8gICAgICAgICAgICBpZiAoYmluYXJ5U3RyaW5nLmNoYXJBdChpKSAhPSAwIHx8IGJpbmFyeVN0cmluZy5jaGFyQXQoaSkgIT0gMSl7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KG5vQmluU3RyaW5nKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbm9CaW5TdHJpbmcgPSAiVGhpcyBpcyBub3QgYSBiaW5hcnkgbnVtYmVyIjsKLy8KLy8gICAgICAgIGlmIChiaW5hcnlTdHJpbmcuY2hhckF0KGJpbmFyeVN0cmluZy5sZW5ndGgoKSkgPT0gJzEnKSB7Ci8vICAgICAgICAgICAgZGVjTnVtID0gKGludCkgKGRlY051bSArIE1hdGgucG93KDIsIGJpbmFyeVN0cmluZy5sZW5ndGgoKSkpOwovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuIGJpbjJEZWMoKTs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgCiAgICAgICAgcmV0dXJuIGJpbmFyeVN0cmluZzs=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYmluYXJ5U3RyaW5nLmxlbmd0aCgpOyBpKyspIHsKLy8gICAgICAgICAgICBpZiAoYmluYXJ5U3RyaW5nLmNoYXJBdChpKSAhPSAwIHx8IGJpbmFyeVN0cmluZy5jaGFyQXQoaSkgIT0gMSl7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KG5vQmluU3RyaW5nKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgICAgCiAgICAgICAgcmV0dXJuIGJpbmFyeVN0cmluZzs=</text>
+      </register>
+      <register name="5" type="4">
         <text>String binaryNum = dec2Bin(num);
         StringBuilder reverseString = new StringBuilder(binaryNum);</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IFN0YWNrIG51bXMgPSBuZXcgU3RhY2soKTsKICAgICAgICBudW1zLnB1c2gocmVtYWluZGVyKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KG51bXMpOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>//NOT NEEDED JUST FOR VIEWING PLEASURE
         System.out.println(&quot;After:  &quot; + uniqueList);</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGNvdW50Kys7CiAgICAgICAgICAgICAgICBpZiAobGlzdDEuZ2V0KGopICE9IGxpc3QxLmdldChpKSl7CiAgICAgICAgICAgICAgICAgICAgY291bnQyKys7CiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGZvciAoaW50IGkgPSAwOyBpIDwgbGlzdDEuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgaWYgKHVuaXF1ZUxpc3QuYWRkKGxpc3QxLmdldChpKSkpCiAgICAgICAgICAgICAgICBjb3VudCsrOwogICAgICAgIH0=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZvciAoaW50IGkgPSAwOyBpIDwgYmluYXJ5U3RyaW5nLmxlbmd0aCgpOyBpKyspIHs=</text>
+        <text>//&quot;Running&quot; process here</text>
       </register>
     </registers>
     <search>
