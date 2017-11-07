@@ -38,10 +38,10 @@
       <file name="$USER_HOME$/IdeaProjects/Compression/src/CompressTheThings.java" timestamp="1455741305428">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/GraphAndBFS/src/Map.java" timestamp="1510022047492">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/IdeaProjects 17/GraphAndBFS/src/Map.java" timestamp="1510025673111">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/OrgAnArchRecursion/src/Recursion.java" timestamp="1507869716804">
         <mark key="'" line="18" column="38" />
@@ -287,7 +287,7 @@
         <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgY2xhc3MgTm9kZXsKICAgICAgICBpbnQgaGVhZDsKICAgICAgICBOb2RlIHJvdzsKICAgICAgICBOb2RlIGNvbDsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBOb2RlIGNvbnN0cnVjdChpbnQgY2l0aWVzW11bXSwgaW50IGksIGludCBqLCBpbnQgciwgaW50IGMpewogICAgICAgIGlmIChpID4gYyAtIDEgfHwgaiA+IHIgLSAxKQogICAgICAgICAgICByZXR1cm4gbnVsbDsKCiAgICAgICAgTm9kZSB0ZW1wID0gbmV3IE5vZGUoKTsKICAgICAgICB0ZW1wLmhlYWQgPSBjaXRpZXNbaV1bal07CiAgICAgICAgdGVtcC5yb3cgPSBjb25zdHJ1Y3QoY2l0aWVzLCBpLCBqICsgMSwgciwgYyk7CiAgICAgICAgdGVtcC5jb2wgPSBjb25zdHJ1Y3QoY2l0aWVzLCBpICsgMSwgaiwgciwgYyk7CgogICAgICAgIHJldHVybiB0ZW1wOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZGlzcGxheShOb2RlIGgpewogICAgICAgIE5vZGUgclBvaW50ZXI7CiAgICAgICAgTm9kZSBjUG9pbnRlciA9IGg7CgogICAgICAgIHdoaWxlIChjUG9pbnRlciAhPSBudWxsKXsKICAgICAgICAgICAgclBvaW50ZXIgPSBjUG9pbnRlcjsKCiAgICAgICAgICAgIHdoaWxlIChyUG9pbnRlciAhPSBudWxsKXsKICAgICAgICAgICAgICAgIC8vdG9kbzogc3RpbGwgcHJpbnRpbmcgaGFzaAogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChyUG9pbnRlciArICIgIik7CiAgICAgICAgICAgICAgICByUG9pbnRlciA9IHJQb2ludGVyLnJvdzsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgY1BvaW50ZXIgPSBjUG9pbnRlci5jb2w7CiAgICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgY2xhc3MgTm9kZXsKICAgICAgICBpbnQgaGVhZDsKICAgICAgICBOb2RlIHJvdzsKICAgICAgICBOb2RlIGNvbDsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBOb2RlIGNvbnN0cnVjdChpbnQgY2l0aWVzW11bXSwgaW50IGksIGludCBqLCBpbnQgciwgaW50IGMpewogICAgICAgIGlmIChpID4gYyAtIDEgfHwgaiA+IHIgLSAxKQogICAgICAgICAgICByZXR1cm4gbnVsbDsKCiAgICAgICAgTm9kZSB0ZW1wID0gbmV3IE5vZGUoKTsKICAgICAgICB0ZW1wLmhlYWQgPSBjaXRpZXNbaV1bal07CiAgICAgICAgdGVtcC5yb3cgPSBjb25zdHJ1Y3QoY2l0aWVzLCBpLCBqICsgMSwgciwgYyk7CiAgICAgICAgdGVtcC5jb2wgPSBjb25zdHJ1Y3QoY2l0aWVzLCBpICsgMSwgaiwgciwgYyk7CgogICAgICAgIHJldHVybiB0ZW1wOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZGlzcGxheShOb2RlIGgpewogICAgICAgIE5vZGUgclBvaW50ZXI7CiAgICAgICAgTm9kZSBjUG9pbnRlciA9IGg7CgogICAgICAgIHdoaWxlIChjUG9pbnRlciAhPSBudWxsKXsKICAgICAgICAgICAgclBvaW50ZXIgPSBjUG9pbnRlcjsKCiAgICAgICAgICAgIHdoaWxlIChyUG9pbnRlciAhPSBudWxsKXsKICAgICAgICAgICAgICAgIC8vdG9kbzogc3RpbGwgcHJpbnRpbmcgaGFzaAogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChyUG9pbnRlciArICIgIik7CiAgICAgICAgICAgICAgICByUG9pbnRlciA9IHJQb2ludGVyLnJvdzsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgY1BvaW50ZXIgPSBjUG9pbnRlci5jb2w7CiAgICAgICAgfQogICAgfQ==</text>
+        <text>//todo: figure out how to create linked list given</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgaW50IHJvdyA9IG51bU9mQ2l0aWVzICwgY29sID0gbnVtT2ZDaXRpZXM7CiAgICAgICAgTm9kZSBoZWFkID0gY29uc3RydWN0KGNpdGllcywwLCAwLCByb3csIGNvbCk7CiAgICAgICAgZGlzcGxheShoZWFkKTs=</text>
@@ -315,7 +315,7 @@
     import java.util.concurrent.Semaphore;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>//todo: figure out how to create linked list given</text>
       </register>
     </registers>
     <search>
