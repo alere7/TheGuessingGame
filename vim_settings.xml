@@ -52,8 +52,10 @@
         <mark key="]" line="41" column="2" />
         <mark key="." line="41" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/LinkedListProblems/src/LLists.java" timestamp="1510709146042">
-        <mark key="[" line="1" column="11" />
+      <file name="$USER_HOME$/IdeaProjects 17/LinkedListProblems/src/LLists.java" timestamp="1510720518307">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/HW1/src/Yelp.java" timestamp="1493157680166">
         <mark key="[" line="16" column="0" />
@@ -294,8 +296,7 @@
     }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>rivate void DFS(int i) {
-    }</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAvLyBHZXQgYWxsIGFkamFjZW50IHZlcnRpY2VzIG9mIHRoZSBkZXF1ZXVlZCB2ZXJ0ZXggcwogICAgICAgICAgICAvLyBJZiBhIGFkamFjZW50IGhhcyBub3QgYmVlbiB2aXNpdGVkLCB0aGVuIG1hcmsgaXQKICAgICAgICAgICAgLy8gdmlzaXRlZCBhbmQgZW5xdWV1ZSBpdA==</text>
@@ -331,7 +332,7 @@
         <text encoding="base64">IC8vIDAgPT0+IEF0bGFudGEKICAgICAgICAvLyAxID09PiBCb3N0b24KICAgICAgICAvLyAyID09PiBDaGljYWdvCiAgICAgICAgLy8gMyA9PT4gRGFsbGFzCiAgICAgICAgLy8gNCA9PT4gRGVudmVyCiAgICAgICAgLy8gNSA9PT4gSG91c3RvbgogICAgICAgIC8vIDYgPT0+IEthbnNhcyBDaXR5CiAgICAgICAgLy8gNyA9PT4gTG9zIEFuZ2VsZXMKICAgICAgICAvLyA4ID09PiBNaWFtaQogICAgICAgIC8vIDkgPT0+IE5ldyBZb3JrCiAgICAgICAgLy8gMTAgPT0+IFNhbiBGcmFuY2lzY28KICAgICAgICAvLyAxMSA9PT4gU2VhdHRsZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>// Dequeue a vertex from queue and print it</text>
+        <text />
       </register>
     </registers>
     <search>
