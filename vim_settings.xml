@@ -15,10 +15,10 @@
       <file name="$USER_HOME$/IdeaProjects 17/Wumpus2/src/sample/Wumpus.java" timestamp="1489209259292">
         <mark key="[" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/ReaderWriter/src/ReaderWriter.java" timestamp="1510806045461">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="54" column="8" />
-        <mark key="." line="54" column="8" />
+      <file name="$USER_HOME$/IdeaProjects 17/ReaderWriter/src/ReaderWriter.java" timestamp="1510808047275">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AssemblyLine/src/Hw4.java" timestamp="1460847212774">
         <mark key="[" line="12" column="36" />
@@ -300,16 +300,19 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJZT1VSIFNQRU5ESU5HIFRPIE1VQ0ggTU9ORVkhISEiKTsKICAgICAgICBlbHNlCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>public void Semaphore(){
-            
-        }</text>
+        <text>Semaphore sem = new Semaphore(a);
+                sem.P(sem);</text>
       </register>
       <register name="&quot;" type="4">
+        <text>Semaphore sem = new Semaphore(a);
+                sem.P(sem);</text>
+      </register>
+      <register name="2" type="4">
         <text>public void Semaphore(){
             
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>private int num;
     private LLists head;
 
@@ -318,14 +321,14 @@
         head = null;
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>rivate void DFS(int i) {
     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAvLyBHZXQgYWxsIGFkamFjZW50IHZlcnRpY2VzIG9mIHRoZSBkZXF1ZXVlZCB2ZXJ0ZXggcwogICAgICAgICAgICAvLyBJZiBhIGFkamFjZW50IGhhcyBub3QgYmVlbiB2aXNpdGVkLCB0aGVuIG1hcmsgaXQKICAgICAgICAgICAgLy8gdmlzaXRlZCBhbmQgZW5xdWV1ZSBpdA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>m1.AddConnection();
         m1.AddConnection();
         m1.AddConnection();
@@ -337,17 +340,14 @@
         m1.AddConnection();
         m1.AddConnection();</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgY2xhc3MgTm9kZXsKICAgICAgICBpbnQgaGVhZDsKICAgICAgICBOb2RlIHJvdzsKICAgICAgICBOb2RlIGNvbDsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBOb2RlIGNvbnN0cnVjdChpbnQgY2l0aWVzW11bXSwgaW50IGksIGludCBqLCBpbnQgciwgaW50IGMpewogICAgICAgIGlmIChpID4gYyAtIDEgfHwgaiA+IHIgLSAxKQogICAgICAgICAgICByZXR1cm4gbnVsbDsKCiAgICAgICAgTm9kZSB0ZW1wID0gbmV3IE5vZGUoKTsKICAgICAgICB0ZW1wLmhlYWQgPSBjaXRpZXNbaV1bal07CiAgICAgICAgdGVtcC5yb3cgPSBjb25zdHJ1Y3QoY2l0aWVzLCBpLCBqICsgMSwgciwgYyk7CiAgICAgICAgdGVtcC5jb2wgPSBjb25zdHJ1Y3QoY2l0aWVzLCBpICsgMSwgaiwgciwgYyk7CgogICAgICAgIHJldHVybiB0ZW1wOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZGlzcGxheShOb2RlIGgpewogICAgICAgIE5vZGUgclBvaW50ZXI7CiAgICAgICAgTm9kZSBjUG9pbnRlciA9IGg7CgogICAgICAgIHdoaWxlIChjUG9pbnRlciAhPSBudWxsKXsKICAgICAgICAgICAgclBvaW50ZXIgPSBjUG9pbnRlcjsKCiAgICAgICAgICAgIHdoaWxlIChyUG9pbnRlciAhPSBudWxsKXsKICAgICAgICAgICAgICAgIC8vdG9kbzogc3RpbGwgcHJpbnRpbmcgaGFzaAogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChyUG9pbnRlciArICIgIik7CiAgICAgICAgICAgICAgICByUG9pbnRlciA9IHJQb2ludGVyLnJvdzsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgY1BvaW50ZXIgPSBjUG9pbnRlci5jb2w7CiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgaW50IHJvdyA9IG51bU9mQ2l0aWVzICwgY29sID0gbnVtT2ZDaXRpZXM7CiAgICAgICAgTm9kZSBoZWFkID0gY29uc3RydWN0KGNpdGllcywwLCAwLCByb3csIGNvbCk7CiAgICAgICAgZGlzcGxheShoZWFkKTs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgLy90ZXN0CiAgICAgICAgLy9jaXRpZXMgPSBuZXcgaW50W11bXXt7MywgNSwgNn0sIHsyLCA4LCAxMX0sIHsxLCA0LCA2fX07Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBudW1PZkNpdGllczsgaSsrKSB7CiAgICAgICAgICAgIExpc3Q8SW50ZWdlcj4gbGlzdCA9IG5ldyBMaW5rZWRMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBudW1PZkNpdGllczsgaisrKSB7CiAgICAgICAgICAgICAgICBsaXN0LmFkZChqKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBtYXRyaXguYWRkKGxpc3QpOwogICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgLy90ZXN0CiAgICAgICAgLy9jaXRpZXMgPSBuZXcgaW50W11bXXt7MywgNSwgNn0sIHsyLCA4LCAxMX0sIHsxLCA0LCA2fX07Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
