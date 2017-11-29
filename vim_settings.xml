@@ -267,10 +267,10 @@
       <file name="$USER_HOME$/IdeaProjects/Test3/src/CupcakeOrder.java" timestamp="1458428996836">
         <mark key="[" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Project4.java" timestamp="1511943580893">
-        <mark key="[" line="79" column="16" />
-        <mark key="]" line="79" column="16" />
-        <mark key="." line="79" column="16" />
+      <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Project4.java" timestamp="1511945643335">
+        <mark key="[" line="54" column="104" />
+        <mark key="]" line="54" column="104" />
+        <mark key="." line="54" column="104" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/WednesdayWednesdayWednesday/src/CollegeCampus/CollegeCampus.java" timestamp="1473873690977">
         <mark key="[" line="30" column="87" />
@@ -310,9 +310,7 @@
                 tempAList.get(i) = temp;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>temp = tempAList.get(min);
-                tempAList.get(min) = tempAList.get(i);
-                tempAList.get(i) = temp;</text>
+        <text encoding="base64">IC8vdG9kbzogcHV0IHNvcnQgbnVtYmVycyBpbiBwcmludCBzdGF0bWVudCAodXNlcyBmdW5jdGlvbnMp</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICA=</text>
@@ -350,7 +348,7 @@
         <text encoding="base64">ICAvLyBHZXQgYWxsIGFkamFjZW50IHZlcnRpY2VzIG9mIHRoZSBkZXF1ZXVlZCB2ZXJ0ZXggcwogICAgICAgICAgICAvLyBJZiBhIGFkamFjZW50IGhhcyBub3QgYmVlbiB2aXNpdGVkLCB0aGVuIG1hcmsgaXQKICAgICAgICAgICAgLy8gdmlzaXRlZCBhbmQgZW5xdWV1ZSBpdA==</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println(allSorts.get(1));</text>
+        <text encoding="base64">IC8vdG9kbzogcHV0IHNvcnQgbnVtYmVycyBpbiBwcmludCBzdGF0bWVudCAodXNlcyBmdW5jdGlvbnMp</text>
       </register>
     </registers>
     <search>
