@@ -267,10 +267,10 @@
       <file name="$USER_HOME$/IdeaProjects/Test3/src/CupcakeOrder.java" timestamp="1458428996836">
         <mark key="[" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Project4.java" timestamp="1511979310807">
-        <mark key="[" line="54" column="104" />
-        <mark key="]" line="54" column="104" />
-        <mark key="." line="54" column="104" />
+      <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Project4.java" timestamp="1511985457816">
+        <mark key="[" line="96" column="8" />
+        <mark key="]" line="96" column="8" />
+        <mark key="." line="96" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/WednesdayWednesdayWednesday/src/CollegeCampus/CollegeCampus.java" timestamp="1473873690977">
         <mark key="[" line="30" column="87" />
@@ -305,33 +305,36 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJZT1VSIFNQRU5ESU5HIFRPIE1VQ0ggTU9ORVkhISEiKTsKICAgICAgICBlbHNlCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkYXRhOyBpKyspIHsKICAgICAgICAgICAgdGVtcEFMaXN0LmFkZChyYW5kLm5leHRJbnQoZGF0YSkpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Random rand =  new Random();</text>
+      </register>
+      <register name="2" type="4">
         <text>temp = tempAList.get(min);
                 tempAList.get(min) = tempAList.get(i);
                 tempAList.get(i) = temp;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vdG9kbzogcHV0IHNvcnQgbnVtYmVycyBpbiBwcmludCBzdGF0bWVudCAodXNlcyBmdW5jdGlvbnMp</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICA=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>System.out.println(&quot;Input Data\tSelection\tBubble\tInsertion\tMerge\tQuick\n&quot; +
                 &quot;Size\t\tSort\t\tSort\t\tSort\t\tSort\t\tSort&quot;);</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Semaphore sem = new Semaphore(a);
                 sem.P(sem);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>public void Semaphore(){
             
         }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>private int num;
     private LLists head;
 
@@ -340,15 +343,12 @@
         head = null;
     }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>rivate void DFS(int i) {
     }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvLyBHZXQgYWxsIGFkamFjZW50IHZlcnRpY2VzIG9mIHRoZSBkZXF1ZXVlZCB2ZXJ0ZXggcwogICAgICAgICAgICAvLyBJZiBhIGFkamFjZW50IGhhcyBub3QgYmVlbiB2aXNpdGVkLCB0aGVuIG1hcmsgaXQKICAgICAgICAgICAgLy8gdmlzaXRlZCBhbmQgZW5xdWV1ZSBpdA==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vdG9kbzogcHV0IHNvcnQgbnVtYmVycyBpbiBwcmludCBzdGF0bWVudCAodXNlcyBmdW5jdGlvbnMp</text>
+        <text>Random rand =  new Random();</text>
       </register>
     </registers>
     <search>
