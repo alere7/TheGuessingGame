@@ -213,9 +213,7 @@
       <file name="$USER_HOME$/IdeaProjects 17/Asg_2.1/src/sample/Main.java" timestamp="1484766713186">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Blackboard.java" timestamp="1515642831081">
-        <mark key="[" line="1" column="23" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Blackboard.java" timestamp="1515644616134" />
       <file name="$USER_HOME$/IdeaProjects/MyTemp/src/Asg_1/src/salesman/Main.java" timestamp="1484283212069">
         <mark key="[" line="0" column="14" />
       </file>
@@ -311,7 +309,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iICsKICAgICAgICAgICAgICAgICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>= tempAList.get(j+1);</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkYXRhOyBpKyspIHsKICAgICAgICAgICAgdGVtcEFMaXN0LmFkZChyYW5kLm5leHRJbnQoZGF0YSkpOwogICAgICAgIH0=</text>
@@ -350,7 +348,7 @@
     }</text>
       </register>
       <register name="-" type="4">
-        <text>= tempAList.get(j+1);</text>
+        <text />
       </register>
     </registers>
     <search>
