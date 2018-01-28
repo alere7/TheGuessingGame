@@ -210,10 +210,10 @@
       <file name="$USER_HOME$/IdeaProjects/MySecondUI/src/sample/Controller.java" timestamp="1493905939134">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/AttendanceApp/src/Main.java" timestamp="1517001934449">
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="12" />
-        <mark key="." line="70" column="12" />
+      <file name="$USER_HOME$/IdeaProjects 17/AttendanceApp/src/Main.java" timestamp="1517174924682">
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="24" />
+        <mark key="." line="68" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/Asg_2.1/src/sample/Main.java" timestamp="1484766713186">
         <mark key="[" line="19" column="43" />
@@ -308,7 +308,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyppbnQgdGVtcDsKICAgICAgICAgICAgaW50IG4gPSByYW5kLm5leHRJbnQobnVtKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW07IGkrKykgewogICAgICAgICAgICAgICAgdGVtcCA9IHJjLmdldChpKTsKICAgICAgICAgICAgICAgIHJjLmdldChpKSA9IHJjLmdldChuKTsKICAgICAgICAgICAgICAgIHJjLmdldChuKSA9IHRlbXA7CiAgICAgICAgICAgIH0qLw==</text>
+        <text>num1 = num2;
+                        num2 = temp;</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -320,34 +321,34 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJZT1VSIFNQRU5ESU5HIFRPIE1VQ0ggTU9ORVkhISEiKTsKICAgICAgICBlbHNlCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyppbnQgdGVtcDsKICAgICAgICAgICAgaW50IG4gPSByYW5kLm5leHRJbnQobnVtKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW07IGkrKykgewogICAgICAgICAgICAgICAgdGVtcCA9IHJjLmdldChpKTsKICAgICAgICAgICAgICAgIHJjLmdldChpKSA9IHJjLmdldChuKTsKICAgICAgICAgICAgICAgIHJjLmdldChuKSA9IHRlbXA7CiAgICAgICAgICAgIH0qLw==</text>
+        <text>num1 = num2;
+                        num2 = temp;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">U3lzdGVtLm91dC5wcmludCgiV2hpY2ggYWJzZW5jZXMgd291bGQgeW91IGxpa2UgdG8gY291bnQ6ICIpOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">LyppbnQgdGVtcDsKICAgICAgICAgICAgaW50IG4gPSByYW5kLm5leHRJbnQobnVtKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW07IGkrKykgewogICAgICAgICAgICAgICAgdGVtcCA9IHJjLmdldChpKTsKICAgICAgICAgICAgICAgIHJjLmdldChpKSA9IHJjLmdldChuKTsKICAgICAgICAgICAgICAgIHJjLmdldChuKSA9IHRlbXA7CiAgICAgICAgICAgIH0qLw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLlJhbmRvbTs=</text>
+        <text encoding="base64">U3lzdGVtLm91dC5wcmludCgiV2hpY2ggYWJzZW5jZXMgd291bGQgeW91IGxpa2UgdG8gY291bnQ6ICIpOwogICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iICsKICAgICAgICAgICAgICAgICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOw==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLlJhbmRvbTs=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkYXRhOyBpKyspIHsKICAgICAgICAgICAgdGVtcEFMaXN0LmFkZChyYW5kLm5leHRJbnQoZGF0YSkpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iICsKICAgICAgICAgICAgICAgICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOw==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkYXRhOyBpKyspIHsKICAgICAgICAgICAgdGVtcEFMaXN0LmFkZChyYW5kLm5leHRJbnQoZGF0YSkpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="4">
         <text>temp = tempAList.get(min);
                 tempAList.get(min) = tempAList.get(i);
                 tempAList.get(i) = temp;</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICA=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7</text>
-      </register>
       <register name="9" type="4">
-        <text>System.out.println(&quot;Input Data\tSelection\tBubble\tInsertion\tMerge\tQuick\n&quot; +
-                &quot;Size\t\tSort\t\tSort\t\tSort\t\tSort\t\tSort&quot;);</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7</text>
       </register>
     </registers>
     <search>
