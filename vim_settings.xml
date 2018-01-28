@@ -210,10 +210,10 @@
       <file name="$USER_HOME$/IdeaProjects/MySecondUI/src/sample/Controller.java" timestamp="1493905939134">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/AttendanceApp/src/Main.java" timestamp="1517174924682">
-        <mark key="[" line="68" column="24" />
-        <mark key="]" line="68" column="24" />
-        <mark key="." line="68" column="24" />
+      <file name="$USER_HOME$/IdeaProjects 17/AttendanceApp/src/Main.java" timestamp="1517176540381">
+        <mark key="[" line="54" column="77" />
+        <mark key="]" line="54" column="77" />
+        <mark key="." line="54" column="77" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/Asg_2.1/src/sample/Main.java" timestamp="1484766713186">
         <mark key="[" line="19" column="43" />
@@ -222,7 +222,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyTemp/src/Asg_1/src/salesman/Main.java" timestamp="1484283212069">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517001967346">
+      <file name="/Dummy.txt" timestamp="1517175650678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/GraphAndBFS/Cities" timestamp="1509832127506">
@@ -308,11 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>num1 = num2;
-                        num2 = temp;</text>
+        <text>, int i, int newValue</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>, int i, int newValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
