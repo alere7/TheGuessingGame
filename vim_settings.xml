@@ -280,10 +280,10 @@
       <file name="$USER_HOME$/IdeaProjects/Test3/src/CupcakeOrder.java" timestamp="1458428996836">
         <mark key="[" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/DNA Seqence/src/DNA_Seqence.java" timestamp="1517610629234">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="6" />
+      <file name="$USER_HOME$/IdeaProjects 17/DNA Seqence/src/DNA_Seqence.java" timestamp="1517612228328">
+        <mark key="[" line="135" column="8" />
+        <mark key="]" line="135" column="8" />
+        <mark key="." line="135" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Project4.java" timestamp="1511999160019">
         <mark key="[" line="122" column="21" />
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>//and so on for all codons</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>//and so on for all codons</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
@@ -331,34 +331,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJZT1VSIFNQRU5ESU5HIFRPIE1VQ0ggTU9ORVkhISEiKTsKICAgICAgICBlbHNlCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgRE5BX1NlcWVuY2UoKXsKICAgICAgIAogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb2RvbnNNYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsID4oKTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBtYWtlQW5VcGRhdGUoKXsKCiAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgRE5BX1NlcWVuY2UoKXsKICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGVsc2UKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmM7</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBtYWtlQW5VcGRhdGUoKXsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IGVsc2UKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmM7</text>
+      </register>
+      <register name="5" type="4">
         <text>System.out.print(&quot;Would you like to update one of the attendences? (y/n) &quot;);
                 answer = in.next();</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>num1 = num2;
                         num2 = temp;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyppbnQgdGVtcDsKICAgICAgICAgICAgaW50IG4gPSByYW5kLm5leHRJbnQobnVtKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW07IGkrKykgewogICAgICAgICAgICAgICAgdGVtcCA9IHJjLmdldChpKTsKICAgICAgICAgICAgICAgIHJjLmdldChpKSA9IHJjLmdldChuKTsKICAgICAgICAgICAgICAgIHJjLmdldChuKSA9IHRlbXA7CiAgICAgICAgICAgIH0qLw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludCgiV2hpY2ggYWJzZW5jZXMgd291bGQgeW91IGxpa2UgdG8gY291bnQ6ICIpOwogICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLlJhbmRvbTs=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iICsKICAgICAgICAgICAgICAgICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOw==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLlJhbmRvbTs=</text>
       </register>
     </registers>
     <search>
