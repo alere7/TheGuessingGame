@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Test Sequence" type="PLAIN_TEXT" />
       <mapping pattern="BuildingList" type="PLAIN_TEXT" />
       <mapping pattern="XUTranscript" type="PLAIN_TEXT" />
       <mapping pattern="pollData" type="PLAIN_TEXT" />
