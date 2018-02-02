@@ -280,10 +280,10 @@
       <file name="$USER_HOME$/IdeaProjects/Test3/src/CupcakeOrder.java" timestamp="1458428996836">
         <mark key="[" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/DNA Seqence/src/DNA_Seqence.java" timestamp="1517613608382">
-        <mark key="[" line="124" column="8" />
-        <mark key="]" line="124" column="8" />
-        <mark key="." line="124" column="8" />
+      <file name="$USER_HOME$/IdeaProjects 17/DNA Seqence/src/DNA_Seqence.java" timestamp="1517614475847">
+        <mark key="[" line="203" column="7" />
+        <mark key="]" line="203" column="7" />
+        <mark key="." line="203" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/Project4/src/Project4.java" timestamp="1511999160019">
         <mark key="[" line="122" column="21" />
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int num = 3;</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>int num = 3;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
