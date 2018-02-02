@@ -1,14 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Trans3" type="PLAIN_TEXT" />
-      <mapping pattern="Trans2" type="PLAIN_TEXT" />
       <mapping pattern="BuildingList" type="PLAIN_TEXT" />
       <mapping pattern="XUTranscript" type="PLAIN_TEXT" />
       <mapping pattern="pollData" type="PLAIN_TEXT" />
-      <mapping pattern="Cities" type="PLAIN_TEXT" />
       <mapping pattern="Sample 1" type="PLAIN_TEXT" />
+      <mapping pattern="Human ABL gene, proto-oncogene 1, variant b" type="PLAIN_TEXT" />
+      <mapping pattern="Human ABL gene, proto-oncogene 1, variant a" type="PLAIN_TEXT" />
+      <mapping pattern="Cities" type="PLAIN_TEXT" />
       <mapping pattern="Restaurants" type="PLAIN_TEXT" />
+      <mapping pattern="Trans3" type="PLAIN_TEXT" />
+      <mapping pattern="Trans2" type="PLAIN_TEXT" />
       <mapping pattern="numbers" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
