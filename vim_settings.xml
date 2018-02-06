@@ -215,10 +215,10 @@
       <file name="$USER_HOME$/IdeaProjects/MySecondUI/src/sample/Controller.java" timestamp="1493905939134">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects 17/AttendanceApp/src/Main.java" timestamp="1517179325406">
-        <mark key="[" line="109" column="5" />
-        <mark key="]" line="109" column="5" />
-        <mark key="." line="109" column="5" />
+      <file name="$USER_HOME$/IdeaProjects 17/AttendanceApp/src/Main.java" timestamp="1517948676390">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects 17/Asg_2.1/src/sample/Main.java" timestamp="1484766713186">
         <mark key="[" line="19" column="43" />
@@ -320,7 +320,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgQXJyYXlMaXN0PEludGVnZXI+IGdldFJvbGxjYWxsKCkgewogICAgICAgICAgICByZXR1cm4gcm9sbGNhbGw7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIHNldFJvbGxjYWxsKEFycmF5TGlzdDxJbnRlZ2VyPiByb2xsY2FsbCkgewogICAgICAgICAgICBNYWluLnJvbGxjYWxsID0gcm9sbGNhbGw7CiAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -332,36 +332,36 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJZT1VSIFNQRU5ESU5HIFRPIE1VQ0ggTU9ORVkhISEiKTsKICAgICAgICBlbHNlCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgQXJyYXlMaXN0PEludGVnZXI+IGdldFJvbGxjYWxsKCkgewogICAgICAgICAgICByZXR1cm4gcm9sbGNhbGw7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIHNldFJvbGxjYWxsKEFycmF5TGlzdDxJbnRlZ2VyPiByb2xsY2FsbCkgewogICAgICAgICAgICBNYWluLnJvbGxjYWxsID0gcm9sbGNhbGw7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="2" type="4">
         <text>codonsMap.put(&quot;&quot;, &quot;&quot;);
         codonsMap.put(&quot;&quot;, &quot;&quot;);
         codonsMap.put(&quot;&quot;, &quot;&quot;);
         codonsMap.put(&quot;&quot;, &quot;&quot;);</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb2RvbnNNYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsID4oKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgRE5BX1NlcWVuY2UoKXsKICAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBtYWtlQW5VcGRhdGUoKXsKCiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGVsc2UKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmM7</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>System.out.print(&quot;Would you like to update one of the attendences? (y/n) &quot;);
                 answer = in.next();</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>num1 = num2;
                         num2 = temp;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyppbnQgdGVtcDsKICAgICAgICAgICAgaW50IG4gPSByYW5kLm5leHRJbnQobnVtKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW07IGkrKykgewogICAgICAgICAgICAgICAgdGVtcCA9IHJjLmdldChpKTsKICAgICAgICAgICAgICAgIHJjLmdldChpKSA9IHJjLmdldChuKTsKICAgICAgICAgICAgICAgIHJjLmdldChuKSA9IHRlbXA7CiAgICAgICAgICAgIH0qLw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">U3lzdGVtLm91dC5wcmludCgiV2hpY2ggYWJzZW5jZXMgd291bGQgeW91IGxpa2UgdG8gY291bnQ6ICIpOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">LyppbnQgdGVtcDsKICAgICAgICAgICAgaW50IG4gPSByYW5kLm5leHRJbnQobnVtKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW07IGkrKykgewogICAgICAgICAgICAgICAgdGVtcCA9IHJjLmdldChpKTsKICAgICAgICAgICAgICAgIHJjLmdldChpKSA9IHJjLmdldChuKTsKICAgICAgICAgICAgICAgIHJjLmdldChuKSA9IHRlbXA7CiAgICAgICAgICAgIH0qLw==</text>
       </register>
     </registers>
     <search>
